@@ -1,0 +1,1480 @@
+		
+		     body{
+			 background-color:#69AE67;
+			 font-family:Source Sans Pro, sans-serif, italic;
+			 font-weight:bold;
+			 
+			 height:768px;
+			 }
+
+			 p{
+			 color:#FFFFFF;
+			 font-size:170%;
+			 z-index:10;
+			 }
+			 
+			 a{
+			 font-family:Source Sans Pro, sans-serif, italic;
+			 font-weight:bold;
+			 color:#FFFFFF;
+			 }
+			 
+			 .menu{
+			 
+				 background-color:#9AD399;
+				 width:1500px;
+				 height:150px;
+				 border-color:black;
+				 padding-bottom:0px;
+				 padding-left:0px;
+				 padding-right:0px;
+				 padding-top:10px;
+				 border:2px;
+				 border-color:black;
+				 border-style:solid;
+				 border-top-left-radius:0px;
+				 border-top-right-radius:0px;
+				 border-bottom-right-radius:10px;
+				 border-bottom-left-radius:10px;
+				 z-index: 10px;
+			 }
+			 Pie de pagina/
+			 .piepagina{
+			     
+				 background-color:#9AD399;
+				 width:1490px;
+				 height:150px;
+				 border-color:black;
+				 padding-bottom:30px;
+				 padding-left:0px;
+				 padding-right:10px;
+				 padding-top:10px;
+				 border:2px;
+				 border-color:black;
+				 border-style:solid;
+				 border-top-left-radius:10px;
+				 border-top-right-radius:10px;
+				 border-bottom-right-radius:0px;
+				 border-bottom-left-radius:0px;
+				 z-index: 10px;
+				 position:absolute;
+				 top:1150px;
+				 
+			 }
+			 
+			 .piecontent{
+			     
+			     font-size:80%;
+				 text-align:right;
+			 }
+			 .piecontentIMG{
+			     
+			     position:absolute;
+				 top:-80px;
+				 left:2px;
+				 z-index:10;
+			 }
+			 
+			 
+
+			 
+			 Menu Opciones/
+			 #menu1{
+				 position: absolute;
+				 top:85px;
+				 left:210px;
+			 }
+			 #menu2{
+				 position: absolute;
+				 top:85px;
+				 left:310px;
+			 }
+			 #menu3{
+				 position: absolute;
+				 top:85px;
+				 left:515px;
+			 }
+			 #menu4{
+				 position: absolute;
+				 top:85px;
+				 left:720px;			 
+			 }
+			 #menu5{
+				 position: absolute;
+				 top:85px;
+				 left:845px;				 
+			 }
+			 #menu6{
+				 position: absolute;
+				 top:85px;
+				 left:995px;				 
+			 }			
+			 #menu7{
+				 position: absolute;
+				 top:85px;
+				 left:1180px;				 
+			 }
+			 #menu8{
+				 position: absolute;
+				 top:85px;
+				 left:1400px;			 
+			 }
+			 Menu Imagenes/
+			 #menuIMG1{
+				 position: absolute;
+				 top:25px;
+				 left:210px;
+			 }
+			 #menuIMG2{
+				 position: absolute;
+				 top:25px;
+				 left:370px;
+			 }
+			 #menuIMG3{
+				 position: absolute;
+				 top:25px;
+				 left:570px
+			 }
+			 #menuIMG4{
+				 position: absolute;
+				 top:25px;	
+				 left:735px;
+			 }
+			 #menuIMG5{
+				 position: absolute;
+				 top:25px;			 
+				 left:880px;
+			 }
+			 #menuIMG6{
+				 position: absolute;
+				 top:25px;			 
+				 left:1040px;			 
+			 }
+			 #menuIMG7{
+				 position: absolute;
+				 top:25px;			 
+				 left:1245px;			 
+			 }
+			 #menuIMG8{
+				 position: absolute;
+				 top:25px;			 
+				 left:1420px;			 
+			 }
+			 
+			 
+			 logo/
+			 #logo{
+			    
+			     position:absolute;
+				 bottom:485px;
+				 right:1200px; 
+			 }
+			 
+			 contenido/
+			 .content{
+				 text-align:center;
+			     font-size:120%;
+			 }
+			 
+			 #IMGespecie1{
+				 position:absolute;
+				 top:850px;
+				 left:190px;
+			 }
+			 #IMGespecie2{
+				 position:absolute;
+				 top:850px;
+				 left:650px;
+			 }
+			 #IMGespecie3{
+				 position:absolute;
+				 top:850px;
+				 left:1100px;
+			 }
+             body{
+                background-color:#69AE67;
+                font-family:Source Sans Pro, sans-serif, italic;
+                font-weight:bold;
+                
+                height:768px;
+                }
+   
+                p{
+                color:#FFFFFF;
+                font-size:170%;
+                z-index:10;
+                }
+                
+                a{
+                font-family:Source Sans Pro, sans-serif, italic;
+                font-weight:bold;
+                color:#FFFFFF;
+                }
+                
+                .menu{
+                
+                    background-color:#9AD399;
+                    width:1500px;
+                    height:150px;
+                    border-color:black;
+                    padding-bottom:0px;
+                    padding-left:0px;
+                    padding-right:0px;
+                    padding-top:10px;
+                    border:2px;
+                    border-color:black;
+                    border-style:solid;
+                    border-top-left-radius:0px;
+                    border-top-right-radius:0px;
+                    border-bottom-right-radius:10px;
+                    border-bottom-left-radius:10px;
+                    z-index: 10px;
+                }
+                Pie de pagina/
+                .piepagina{
+                    
+                    background-color:#9AD399;
+                    width:1490;
+                    height:150px;
+                    border-color:black;
+                    padding-bottom:30px;
+                    padding-left:0px;
+                    padding-right:10px;
+                    padding-top:10px;
+                    border:2px;
+                    border-color:black;
+                    border-style:solid;
+                    border-top-left-radius:10px;
+                    border-top-right-radius:10px;
+                    border-bottom-right-radius:0px;
+                    border-bottom-left-radius:0px;
+                    z-index: 10px;
+                    position:absolute;
+                    top:1150px;
+                    
+                }
+                
+                .piecontent{
+                    
+                    font-size:80%;
+                    text-align:right;
+                }
+                .piecontentIMG{
+                    
+                    position:absolute;
+                    top:-80px;
+                    left:2px;
+                    z-index:10;
+                }
+                
+                
+   
+                
+                Menu Opciones/
+                #menu1{
+                    position: absolute;
+                    top:85px;
+                    left:210px;
+                }
+                #menu2{
+                    position: absolute;
+                    top:85px;
+                    left:310px;
+                }
+                #menu3{
+                    position: absolute;
+                    top:85px;
+                    left:515px;
+                }
+                #menu4{
+                    position: absolute;
+                    top:85px;
+                    left:720px;			 
+                }
+                #menu5{
+                    position: absolute;
+                    top:85px;
+                    left:845px;				 
+                }
+                #menu6{
+                    position: absolute;
+                    top:85px;
+                    left:995px;				 
+                }			
+                #menu7{
+                    position: absolute;
+                    top:85px;
+                    left:1180px;				 
+                }
+                #menu8{
+                    position: absolute;
+                    top:85px;
+                    left:1400px;			 
+                }
+                Menu Imagenes/
+                #menuIMG1{
+                    position: absolute;
+                    top:25px;
+                    left:210px;
+                }
+                #menuIMG2{
+                    position: absolute;
+                    top:25px;
+                    left:370px;
+                }
+                #menuIMG3{
+                    position: absolute;
+                    top:25px;
+                    left:570px
+                }
+                #menuIMG4{
+                    position: absolute;
+                    top:25px;	
+                    left:735px;
+                }
+                #menuIMG5{
+                    position: absolute;
+                    top:25px;			 
+                    left:880px;
+                }
+                #menuIMG6{
+                    position: absolute;
+                    top:25px;			 
+                    left:1040px;			 
+                }
+                #menuIMG7{
+                    position: absolute;
+                    top:25px;			 
+                    left:1245px;			 
+                }
+                #menuIMG8{
+                    position: absolute;
+                    top:25px;			 
+                    left:1420px;			 
+                }
+                
+                
+                logo/
+                #logo{
+                   
+                    position:absolute;
+                    bottom:485px;
+                    right:1200px; 
+                }
+                
+                CONTENIDO/
+                
+                #BiodTitle{
+                    font-size:150%;
+                    text-align:center;
+                }
+                #BiodIMG{
+                    position:absolute;
+                    top:200px;
+                    right:345px;
+                }
+                .BiodContent{
+                    background-color:#9AD399;
+                    width:1490px;
+                    height:750px;
+                    border-color:black;
+                    padding-bottom:30px;
+                    padding-left:0px;
+                    padding-right:10px;
+                    padding-top:10px;
+                    border:2px;
+                    border-color:black;
+                    border-style:solid;
+                    border-top-left-radius:10px;
+                    border-top-right-radius:10px;
+                    border-bottom-right-radius:10px;
+                    border-bottom-left-radius:10px;
+                    z-index:-10;
+                    position:absolute;
+                    top:330px;
+                    left:8px;
+                }
+                #BiodCont1{
+                    text-align:center;
+                    font-size:80%;
+                }
+                #BiodSub1{
+                    text-align:center;
+                    position:absolute;
+                    top:600px;
+                    left:600px;
+                }
+                
+                Cont2/
+                
+                #IMGPlantas{
+                    position:absolute;
+                    top:750px;
+                    left:250px;
+                
+                }
+                #IMGAnfibios{
+                    position:absolute;
+                    top:750px;
+                    left:400px;
+                }
+                #IMGReptiles{
+                    position:absolute;
+                    top:750px;
+                    left:550px;
+                }
+                #IMGMamiferos{
+                     position:absolute;
+                    top:750px;
+                    right:550px;
+                }
+                #IMGPeces{
+                     position:absolute;
+                    top:750px;
+                    right:400px;
+                }
+                #IMGAves{
+                     position:absolute;
+                    top:750px;
+                    right:250px;
+                }
+                
+                Cont3/
+                    
+                #BiodSub2{
+                    text-align:center;
+                    z-index:10;
+                    position:absolute;
+                    top:620px;
+                    left:510px;
+                }
+                #BTN1{
+                    width:170px;
+                    height:75px;
+                    background-color:#9AD399;
+                    position:absolute;
+                    top:1000px;
+                    left:685px;
+                    border-radius:10px;
+   
+                }
+                
+                #Planta1{
+                    font-size:70%;
+                    position:absolute;
+                    top:835px;
+                    left:225px;
+                }
+                #Anfibio1{
+                    font-size:70%;
+                    position:absolute;
+                    top:835px;
+                    left:385px;
+                }
+                #Reptil1{
+                    font-size:70%;
+                    position:absolute;
+                    top:835px;
+                    left:535px;
+                }
+                #Mamifero1{
+                    font-size:70%;
+                    position:absolute;
+                    top:835px;
+                    right:535px;
+                }
+                #Pez1{
+                    font-size:70%;
+                    position:absolute;
+                    top:835px;
+                    right:385px;
+                }
+                #Ave1{
+                    font-size:70%;
+                    position:absolute;
+                    top:835px;
+                    right:225px;
+                }
+                body{
+                    background-color:#69AE67;
+                    font-family:Source Sans Pro, sans-serif, italic;
+                    font-weight:bold;
+                    
+                    height:768px;
+                    }
+       
+                    p{
+                    color:#FFFFFF;
+                    font-size:150%;
+                    z-index:10;
+                    }
+                    
+                    a{
+                    font-family:Source Sans Pro, sans-serif, italic;
+                    font-weight:bold;
+                    color:#FFFFFF;
+                    }
+                    
+                    .menu{
+                    
+                        background-color:#9AD399;
+                        width:1500px;
+                        height:150px;
+                        border-color:black;
+                        padding-bottom:0px;
+                        padding-left:0px;
+                        padding-right:0px;
+                        padding-top:10px;
+                        border:2px;
+                        border-color:black;
+                        border-style:solid;
+                        border-top-left-radius:0px;
+                        border-top-right-radius:0px;
+                        border-bottom-right-radius:10px;
+                        border-bottom-left-radius:10px;
+                        z-index: 10px;
+                    }
+                    Pie de pagina/
+                    .piepagina{
+                        
+                        background-color:#9AD399;
+                        width:1490px;
+                        height:150px;
+                        border-color:black;
+                        padding-bottom:30px;
+                        padding-left:0px;
+                        padding-right:10px;
+                        padding-top:10px;
+                        border:2px;
+                        border-color:black;
+                        border-style:solid;
+                        border-top-left-radius:10px;
+                        border-top-right-radius:10px;
+                        border-bottom-right-radius:0px;
+                        border-bottom-left-radius:0px;
+                        z-index: 10px;
+                        position:absolute;
+                        top:1150px;
+                        
+                    }
+                    
+                    .piecontent{
+                        
+                        font-size:80%;
+                        text-align:right;
+                    }
+                    .piecontentIMG{
+                        
+                        position:absolute;
+                        top:-80px;
+                        left:2px;
+                        z-index:10;
+                    }
+                    
+                    
+       
+                    
+                    Menu Opciones/
+                    #menu1{
+                        position: absolute;
+                        top:85px;
+                        left:210px;
+                    }
+                    #menu2{
+                        position: absolute;
+                        top:85px;
+                        left:310px;
+                    }
+                    #menu3{
+                        position: absolute;
+                        top:85px;
+                        left:515px;
+                    }
+                    #menu4{
+                        position: absolute;
+                        top:85px;
+                        left:720px;			 
+                    }
+                    #menu5{
+                        position: absolute;
+                        top:85px;
+                        left:845px;				 
+                    }
+                    #menu6{
+                        position: absolute;
+                        top:85px;
+                        left:995px;				 
+                    }			
+                    #menu7{
+                        position: absolute;
+                        top:85px;
+                        left:1180px;				 
+                    }
+                    #menu8{
+                        position: absolute;
+                        top:85px;
+                        left:1400px;			 
+                    }
+                    Menu Imagenes/
+                    #menuIMG1{
+                        position: absolute;
+                        top:25px;
+                        left:210px;
+                    }
+                    #menuIMG2{
+                        position: absolute;
+                        top:25px;
+                        left:370px;
+                    }
+                    #menuIMG3{
+                        position: absolute;
+                        top:25px;
+                        left:570px
+                    }
+                    #menuIMG4{
+                        position: absolute;
+                        top:25px;	
+                        left:735px;
+                    }
+                    #menuIMG5{
+                        position: absolute;
+                        top:25px;			 
+                        left:880px;
+                    }
+                    #menuIMG6{
+                        position: absolute;
+                        top:25px;			 
+                        left:1040px;			 
+                    }
+                    #menuIMG7{
+                        position: absolute;
+                        top:25px;			 
+                        left:1245px;			 
+                    }
+                    #menuIMG8{
+                        position: absolute;
+                        top:25px;			 
+                        left:1420px;			 
+                    }
+                    
+                    
+                    logo/
+                    #logo{
+                       
+                        position:absolute;
+                        bottom:485px;
+                        right:1200px; 
+                    }
+                    
+                    contenido/
+                    .content{
+                        text-align:center;
+                        font-size:120%;
+                    }
+                    .SubTitle{
+                        font-size:150%;
+                    }
+                    .SubTitle2{
+                        font-size:150%;
+                        color:#FFFFFF;
+                    }
+                    body{
+                        background-color:#69AE67;
+                        font-family:Source Sans Pro, sans-serif, italic;
+                        font-weight:bold;
+                        
+                        height:768px;
+                        }
+           
+                        p{
+                        color:#FFFFFF;
+                        font-size:170%;
+                        z-index:10;
+                        }
+                        
+                        a{
+                        font-family:Source Sans Pro, sans-serif, italic;
+                        font-weight:bold;
+                        color:#FFFFFF;
+                        }
+                        
+                        .menu{
+                        
+                            background-color:#9AD399;
+                            width:1500px;
+                            height:150px;
+                            border-color:black;
+                            padding-bottom:0px;
+                            padding-left:0px;
+                            padding-right:0px;
+                            padding-top:10px;
+                            border:2px;
+                            border-color:black;
+                            border-style:solid;
+                            border-top-left-radius:0px;
+                            border-top-right-radius:0px;
+                            border-bottom-right-radius:10px;
+                            border-bottom-left-radius:10px;
+                            z-index: 10px;
+                        }
+                        Pie de pagina/
+                        .piepagina{
+                            
+                            background-color:#9AD399;
+                            width:1490px;
+                            height:150px;
+                            border-color:black;
+                            padding-bottom:30px;
+                            padding-left:0px;
+                            padding-right:10px;
+                            padding-top:10px;
+                            border:2px;
+                            border-color:black;
+                            border-style:solid;
+                            border-top-left-radius:10px;
+                            border-top-right-radius:10px;
+                            border-bottom-right-radius:0px;
+                            border-bottom-left-radius:0px;
+                            z-index: 10px;
+                            position:absolute;
+                            top:1150px;
+                            
+                        }
+                        
+                        .piecontent{
+                            
+                            font-size:80%;
+                            text-align:right;
+                        }
+                        .piecontentIMG{
+                            
+                            position:absolute;
+                            top:-80px;
+                            left:2px;
+                            z-index:10;
+                        }
+                        
+                        
+           
+                        
+                        Menu Opciones/
+                        #menu1{
+                            position: absolute;
+                            top:85px;
+                            left:210px;
+                        }
+                        #menu2{
+                            position: absolute;
+                            top:85px;
+                            left:310px;
+                        }
+                        #menu3{
+                            position: absolute;
+                            top:85px;
+                            left:515px;
+                        }
+                        #menu4{
+                            position: absolute;
+                            top:85px;
+                            left:720px;			 
+                        }
+                        #menu5{
+                            position: absolute;
+                            top:85px;
+                            left:845px;				 
+                        }
+                        #menu6{
+                            position: absolute;
+                            top:85px;
+                            left:995px;				 
+                        }			
+                        #menu7{
+                            position: absolute;
+                            top:85px;
+                            left:1180px;				 
+                        }
+                        #menu8{
+                            position: absolute;
+                            top:85px;
+                            left:1400px;			 
+                        }
+                        Menu Imagenes/
+                        #menuIMG1{
+                            position: absolute;
+                            top:25px;
+                            left:210px;
+                        }
+                        #menuIMG2{
+                            position: absolute;
+                            top:25px;
+                            left:370px;
+                        }
+                        #menuIMG3{
+                            position: absolute;
+                            top:25px;
+                            left:570px
+                        }
+                        #menuIMG4{
+                            position: absolute;
+                            top:25px;	
+                            left:735px;
+                        }
+                        #menuIMG5{
+                            position: absolute;
+                            top:25px;			 
+                            left:880px;
+                        }
+                        #menuIMG6{
+                            position: absolute;
+                            top:25px;			 
+                            left:1040px;			 
+                        }
+                        #menuIMG7{
+                            position: absolute;
+                            top:25px;			 
+                            left:1245px;			 
+                        }
+                        #menuIMG8{
+                            position: absolute;
+                            top:25px;			 
+                            left:1420px;			 
+                        }
+                        
+                        
+                        logo/
+                        #logo{
+                           
+                            position:absolute;
+                            bottom:485px;
+                            right:1200px; 
+                        }
+                        
+                        contenido/
+                        .content{
+                            text-align:center;
+                            font-size:120%;
+                        }
+                        
+                        Tabla/
+                        
+                        #table1{
+                            border-color:black;
+                            background-color:#A7EE9E;
+                            font-size:150%;
+                            position:absolute;
+                            top:500px;
+                            left:370px;
+                            width:800px;
+                            height:400px;
+                        }
+                        
+                        #TabC{
+                            background-color:#90DF+86;
+                        }
+                        body{
+                            background-color:#69AE67;
+                            font-family:Source Sans Pro, sans-serif, italic;
+                            font-weight:bold;
+                            
+                            height:768px;
+                            }
+               
+                            p{
+                            color:#FFFFFF;
+                            font-size:170%;
+                            z-index:10;
+                            }
+                            
+                            a{
+                            font-family:Source Sans Pro, sans-serif, italic;
+                            font-weight:bold;
+                            color:#FFFFFF;
+                            }
+                            
+                            .menu{
+                            
+                                background-color:#9AD399;
+                                width:1500px;
+                                height:150px;
+                                border-color:black;
+                                padding-bottom:0px;
+                                padding-left:0px;
+                                padding-right:0px;
+                                padding-top:10px;
+                                border:2px;
+                                border-color:black;
+                                border-style:solid;
+                                border-top-left-radius:0px;
+                                border-top-right-radius:0px;
+                                border-bottom-right-radius:10px;
+                                border-bottom-left-radius:10px;
+                                z-index: 10px;
+                            }
+                            Pie de pagina/
+                            .piepagina{
+                                
+                                background-color:#9AD399;
+                                width:1490px;
+                                height:150px;
+                                border-color:black;
+                                padding-bottom:30px;
+                                padding-left:0px;
+                                padding-right:10px;
+                                padding-top:10px;
+                                border:2px;
+                                border-color:black;
+                                border-style:solid;
+                                border-top-left-radius:10px;
+                                border-top-right-radius:10px;
+                                border-bottom-right-radius:0px;
+                                border-bottom-left-radius:0px;
+                                z-index: 10px;
+                                position:absolute;
+                                top:1150px;
+                                
+                            }
+                            
+                            .piecontent{
+                                
+                                font-size:80%;
+                                text-align:right;
+                            }
+                            .piecontentIMG{
+                                
+                                position:absolute;
+                                top:-80px;
+                                left:2px;
+                                z-index:10;
+                            }
+                            
+                            Menu Opciones/
+                            #menu1{
+                                position: absolute;
+                                top:85px;
+                                left:210px;
+                            }
+                            #menu2{
+                                position: absolute;
+                                top:85px;
+                                left:310px;
+                            }
+                            #menu3{
+                                position: absolute;
+                                top:85px;
+                                left:515px;
+                            }
+                            #menu4{
+                                position: absolute;
+                                top:85px;
+                                left:720px;			 
+                            }
+                            #menu5{
+                                position: absolute;
+                                top:85px;
+                                left:845px;				 
+                            }
+                            #menu6{
+                                position: absolute;
+                                top:85px;
+                                left:995px;				 
+                            }			
+                            #menu7{
+                                position: absolute;
+                                top:85px;
+                                left:1180px;				 
+                            }
+                            #menu8{
+                                position: absolute;
+                                top:85px;
+                                left:1400px;			 
+                            }
+                            Menu Imagenes/
+                            #menuIMG1{
+                                position: absolute;
+                                top:25px;
+                                left:210px;
+                            }
+                            #menuIMG2{
+                                position: absolute;
+                                top:25px;
+                                left:370px;
+                            }
+                            #menuIMG3{
+                                position: absolute;
+                                top:25px;
+                                left:570px
+                            }
+                            #menuIMG4{
+                                position: absolute;
+                                top:25px;	
+                                left:735px;
+                            }
+                            #menuIMG5{
+                                position: absolute;
+                                top:25px;			 
+                                left:880px;
+                            }
+                            #menuIMG6{
+                                position: absolute;
+                                top:25px;			 
+                                left:1040px;			 
+                            }
+                            #menuIMG7{
+                                position: absolute;
+                                top:25px;			 
+                                left:1245px;			 
+                            }
+                            #menuIMG8{
+                                position: absolute;
+                                top:25px;			 
+                                left:1420px;			 
+                            }
+                            
+                            
+                            logo/
+                            #logo{
+                               
+                                position:absolute;
+                                bottom:485px;
+                                right:1200px; 
+                            }
+                            
+                            contenido/
+                            .content{
+                                text-align:center;
+                                font-size:120%;
+                            }
+                            CONTENIDO/
+                            
+                            #BiodTitle{
+                                font-size:150%;
+                                text-align:center;
+                            }
+                            #BiodIMG{
+                                position:absolute;
+                                top:200px;
+                                right:345px;
+                            }
+                            .BiodContent{
+                                background-color:#9AD399;
+                                width:1490px;
+                                height:750px;
+                                border-color:black;
+                                padding-bottom:30px;
+                                padding-left:0px;
+                                padding-right:10px;
+                                padding-top:10px;
+                                border:2px;
+                                border-color:black;
+                                border-style:solid;
+                                border-top-left-radius:10px;
+                                border-top-right-radius:10px;
+                                border-bottom-right-radius:10px;
+                                border-bottom-left-radius:10px;
+                                z-index:-10;
+                                position:absolute;
+                                top:330px;
+                                left:8px;
+                            }
+                            #BiodCont1{
+                                text-align:center;
+                                font-size:80%;
+                            }
+                            #BiodSub1{
+                                text-align:center;
+                                position:absolute;
+                                top:600px;
+                                left:425px;
+                            }
+                            
+                            CONTENIDO2/
+                            #IMGDiverEco{
+                                position:absolute;
+                                top:500px;
+                                left:100px;				 
+                            }
+                            #IMGDiverGen{
+                                position:absolute;
+                                top:330px;
+                                left:600px;				 
+                            }
+                            #IMGDiverEsp{
+                                position:absolute;
+                                top:500px;
+                                left:1000px;				 
+                            }
+                            body{
+                                background-color:#69AE67;
+                                font-family:Source Sans Pro, sans-serif, italic;
+                                font-weight:bold;
+                                
+                                height:768px;
+                                }
+                   
+                                p{
+                                color:#FFFFFF;
+                                font-size:170%;
+                                z-index:10;
+                                }
+                                
+                                a{
+                                font-family:Source Sans Pro, sans-serif, italic;
+                                font-weight:bold;
+                                color:#FFFFFF;
+                                }
+                                
+                                .menu{
+                                
+                                    background-color:#9AD399;
+                                    width:1500px;
+                                    height:150px;
+                                    border-color:black;
+                                    padding-bottom:0px;
+                                    padding-left:0px;
+                                    padding-right:0px;
+                                    padding-top:10px;
+                                    border:2px;
+                                    border-color:black;
+                                    border-style:solid;
+                                    border-top-left-radius:0px;
+                                    border-top-right-radius:0px;
+                                    border-bottom-right-radius:10px;
+                                    border-bottom-left-radius:10px;
+                                    z-index: 10px;
+                                }
+                                Pie de pagina/
+                                .piepagina{
+                                    
+                                    background-color:#9AD399;
+                                    width:1490px;
+                                    height:150px;
+                                    border-color:black;
+                                    padding-bottom:30px;
+                                    padding-left:0px;
+                                    padding-right:10px;
+                                    padding-top:10px;
+                                    border:2px;
+                                    border-color:black;
+                                    border-style:solid;
+                                    border-top-left-radius:10px;
+                                    border-top-right-radius:10px;
+                                    border-bottom-right-radius:0px;
+                                    border-bottom-left-radius:0px;
+                                    z-index: 10px;
+                                    position:absolute;
+                                    top:1350px;
+                                    
+                                }
+                                
+                                .piecontent{
+                                    
+                                    font-size:80%;
+                                    text-align:right;
+                                }
+                                .piecontentIMG{
+                                    
+                                    position:absolute;
+                                    top:-80px;
+                                    left:2px;
+                                    z-index:10;
+                                }
+                                
+                                Menu Opciones/
+                                #menu1{
+                                    position: absolute;
+                                    top:85px;
+                                    left:210px;
+                                }
+                                #menu2{
+                                    position: absolute;
+                                    top:85px;
+                                    left:310px;
+                                }
+                                #menu3{
+                                    position: absolute;
+                                    top:85px;
+                                    left:515px;
+                                }
+                                #menu4{
+                                    position: absolute;
+                                    top:85px;
+                                    left:720px;			 
+                                }
+                                #menu5{
+                                    position: absolute;
+                                    top:85px;
+                                    left:845px;				 
+                                }
+                                #menu6{
+                                    position: absolute;
+                                    top:85px;
+                                    left:995px;				 
+                                }			
+                                #menu7{
+                                    position: absolute;
+                                    top:85px;
+                                    left:1180px;				 
+                                }
+                                #menu8{
+                                    position: absolute;
+                                    top:85px;
+                                    left:1400px;			 
+                                }
+                                
+                                Menu Imagenes/
+                                
+                                #menuIMG1{
+                                    position: absolute;
+                                    top:25px;
+                                    left:210px;
+                                }
+                                #menuIMG2{
+                                    position: absolute;
+                                    top:25px;
+                                    left:370px;
+                                }
+                                #menuIMG3{
+                                    position: absolute;
+                                    top:25px;
+                                    left:570px
+                                }
+                                #menuIMG4{
+                                    position: absolute;
+                                    top:25px;	
+                                    left:735px;
+                                }
+                                #menuIMG5{
+                                    position: absolute;
+                                    top:25px;			 
+                                    left:880px;
+                                }
+                                #menuIMG6{
+                                    position: absolute;
+                                    top:25px;			 
+                                    left:1040px;			 
+                                }
+                                #menuIMG7{
+                                    position: absolute;
+                                    top:25px;			 
+                                    left:1245px;			 
+                                }
+                                #menuIMG8{
+                                    position: absolute;
+                                    top:25px;			 
+                                    left:1420px;			 
+                                }
+                                
+                                
+                                logo/
+                                #logo{
+                                   
+                                    position:absolute;
+                                    bottom:485px;
+                                    right:1200px; 
+                                }
+                                
+                                contenido/
+                                .content{
+                                    text-align:center;
+                                    font-size:120%;
+                                }
+                                CONTENIDO/
+                                
+                                #ImpTitle{
+                                    font-size:150%;
+                                    text-align:center;
+                                }
+                                #ImpContent{
+                                    text-align:center;
+                                    font-size:100%;
+                   
+                                }
+                                body{
+                                    background-color:#69AE67;
+                                    font-family:Source Sans Pro, sans-serif, italic;
+                                    font-weight:bold;
+                                    
+                                    height:768px;
+                                    }
+                       
+                                    p{
+                                    color:#FFFFFF;
+                                    font-size:170%;
+                                    z-index:10;
+                                    }
+                                    
+                                    a{
+                                    font-family:Source Sans Pro, sans-serif, italic;
+                                    font-weight:bold;
+                                    color:#FFFFFF;
+                                    }
+                                    
+                                    .menu{
+                                    
+                                        background-color:#9AD399;
+                                        width:1500px;
+                                        height:150px;
+                                        border-color:black;
+                                        padding-bottom:0px;
+                                        padding-left:0px;
+                                        padding-right:0px;
+                                        padding-top:10px;
+                                        border:2px;
+                                        border-color:black;
+                                        border-style:solid;
+                                        border-top-left-radius:0px;
+                                        border-top-right-radius:0px;
+                                        border-bottom-right-radius:10px;
+                                        border-bottom-left-radius:10px;
+                                        z-index: 10px;
+                                    }
+                                    Pie de pagina/
+                                    .piepagina{
+                                        
+                                        background-color:#9AD399;
+                                        width:1490px;
+                                        height:150px;
+                                        border-color:black;
+                                        padding-bottom:30px;
+                                        padding-left:0px;
+                                        padding-right:10px;
+                                        padding-top:10px;
+                                        border:2px;
+                                        border-color:black;
+                                        border-style:solid;
+                                        border-top-left-radius:10px;
+                                        border-top-right-radius:10px;
+                                        border-bottom-right-radius:0px;
+                                        border-bottom-left-radius:0px;
+                                        z-index: 10px;
+                                        position:absolute;
+                                        top:1420px;
+                                        
+                                    }
+                                    
+                                    .piecontent{
+                                        
+                                        font-size:80%;
+                                        text-align:right;
+                                    }
+                                    .piecontentIMG{
+                                        
+                                        position:absolute;
+                                        top:-80px;
+                                        left:2px;
+                                        z-index:10;
+                                    }
+                                    
+                                    
+                       
+                                    
+                                    Menu Opciones/
+                                    #menu1{
+                                        position: absolute;
+                                        top:85px;
+                                        left:210px;
+                                    }
+                                    #menu2{
+                                        position: absolute;
+                                        top:85px;
+                                        left:310px;
+                                    }
+                                    #menu3{
+                                        position: absolute;
+                                        top:85px;
+                                        left:515px;
+                                    }
+                                    #menu4{
+                                        position: absolute;
+                                        top:85px;
+                                        left:720px;			 
+                                    }
+                                    #menu5{
+                                        position: absolute;
+                                        top:85px;
+                                        left:845px;				 
+                                    }
+                                    #menu6{
+                                        position: absolute;
+                                        top:85px;
+                                        left:995px;				 
+                                    }			
+                                    #menu7{
+                                        position: absolute;
+                                        top:85px;
+                                        left:1180px;				 
+                                    }
+                                    #menu8{
+                                        position: absolute;
+                                        top:85px;
+                                        left:1400px;			 
+                                    }
+                                    Menu Imagenes/
+                                    #menuIMG1{
+                                        position: absolute;
+                                        top:25px;
+                                        left:210px;
+                                    }
+                                    #menuIMG2{
+                                        position: absolute;
+                                        top:25px;
+                                        left:370px;
+                                    }
+                                    #menuIMG3{
+                                        position: absolute;
+                                        top:25px;
+                                        left:570px
+                                    }
+                                    #menuIMG4{
+                                        position: absolute;
+                                        top:25px;	
+                                        left:735px;
+                                    }
+                                    #menuIMG5{
+                                        position: absolute;
+                                        top:25px;			 
+                                        left:880px;
+                                    }
+                                    #menuIMG6{
+                                        position: absolute;
+                                        top:25px;			 
+                                        left:1040px;			 
+                                    }
+                                    #menuIMG7{
+                                        position: absolute;
+                                        top:25px;			 
+                                        left:1245px;			 
+                                    }
+                                    #menuIMG8{
+                                        position: absolute;
+                                        top:25px;			 
+                                        left:1420px;			 
+                                    }
+                                    
+                                    
+                                    logo/
+                                    #logo{
+                                       
+                                        position:absolute;
+                                        bottom:485px;
+                                        right:1200px; 
+                                    }
+                                    
+                                    contenido/
+                                    .content{
+                                        text-align:center;
+                                        font-size:120%;
+                                    }
+                                    CONTENIDO/
+                                    
+                                    #ConsTitle{
+                                        font-size:150%;
+                                        text-align:center;
+                                    }
+                                    #ConsContent{
+                                        text-align:center;
+                                        font-size:100%;
+                       
+                                    }
+                                    
+		
